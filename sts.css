@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: white;
+font-family: 'Times New Roman', Times, serif;
+font-size: 30px;
+}
+
+.student{
+    right: 0;
+    top: 108px;
+    position: absolute;
+    background-color: aquamarine;
+    padding: 20px;
+    width: 50%;
+}
+
+.my-style {
+    text-align:center; 
+    font-size: 30px;
+    background-color: cornflowerblue;
+    color: black;
+    padding:20px;
+    margin: 0;
+}
+
+input{
+    width: 400px;
+    height: 40px;
+}
+
+img{
+    width: 50%;
+    height: 50%;
+}
